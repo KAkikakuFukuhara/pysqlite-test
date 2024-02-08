@@ -1,0 +1,15 @@
+# pyenv
+.python-version
+
+# poetry
+poetry.lock
+
+# python
+__pycache__
+
+# venv
+.venv
+
+# sqlite3
+*.sqlite3
+
